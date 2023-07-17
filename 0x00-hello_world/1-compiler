@@ -1,0 +1,2 @@
+#!/bing/bash
+gcc -c $CFILE 
