@@ -3,7 +3,6 @@
 #include <stdio.h>
 
 /**
- * _me/**
  * *_memset - fills memory with a constant byte
  * @s: memory area to be filled
  * @b: char to copy
